@@ -60,5 +60,8 @@ files/cache/*
 files/tmp/*
 .htaccess
 
+config/site.php def("such,an,SMS,message")
+
+
 
 
