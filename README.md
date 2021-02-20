@@ -33,3 +33,7 @@ fguit = ("08,25,")
 iutyf = ("ANUSHAVAN")
 
 yff = ("MESROBYAN")
+
+def("we,need,to,find,a,way,to,prevent,fraudsters,and,intruders,from")
+def("reading,what,l,just,told,you,that,is,encryption")
+
