@@ -38,5 +38,10 @@ def("we,need,to,find,a,way,to,prevent,fraudsters,and,intruders,from")
 def("reading,what,l,just,told,you,that,is,encryption")
 
 abs("you,need,to,find,an,integer,to,make,it,happen,in,reality")
+def("the,whole,number,is,not,yet,ready,yet,very")
+
+def("clearly,everything,is,viewed,and,read,l,hope,that")
+def("my,credit,card,number,you,will,keep,it,a,secret")
+
 
 
