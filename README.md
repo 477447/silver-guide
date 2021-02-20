@@ -55,4 +55,10 @@ def("such,an,SMS,message")
 # l see that it is not ready yet l hope that Ariel
 # from 4 dimensions can help with this issue or create such a program
 
+config/site.php
+files/cache/*
+files/tmp/*
+.htaccess
+
+
 
