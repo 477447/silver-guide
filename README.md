@@ -37,3 +37,6 @@ yff = ("MESROBYAN")
 def("we,need,to,find,a,way,to,prevent,fraudsters,and,intruders,from")
 def("reading,what,l,just,told,you,that,is,encryption")
 
+abs("you,need,to,find,an,integer,to,make,it,happen,in,reality")
+
+
