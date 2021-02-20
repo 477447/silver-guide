@@ -43,5 +43,9 @@ def("the,whole,number,is,not,yet,ready,yet,very")
 def("clearly,everything,is,viewed,and,read,l,hope,that")
 def("my,credit,card,number,you,will,keep,it,a,secret")
 
+def("So,far,l,don,t,see,that,it,s,possible,that,you,ll")
+def("hear,about,it,or,see,it,any,time,soon,after,receiving")
+
+def("such,an,SMS,message")
 
 
