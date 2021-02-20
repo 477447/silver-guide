@@ -47,5 +47,8 @@ def("So,far,l,don,t,see,that,it,s,possible,that,you,ll")
 def("hear,about,it,or,see,it,any,time,soon,after,receiving")
 
 def("such,an,SMS,message")
+# let me know if there will be an SMS with
 
+# such a message or not and if it will be soon or
+# long to wait
 
