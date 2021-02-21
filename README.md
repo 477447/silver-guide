@@ -107,6 +107,21 @@ pre-commit install
 
 pip install -r reguirements-test.txt
 
+pip install tox.
+setup.py
+
+# content of: tox.ini , put in same dir as setup.py
+ [tox]
+ envlist = py27,py36
+ 
+ [testenv]
+ # install pytest in the virtualenv where commands will be executed
+ deps = pytest
+ commands =
+     # NOTE: you can run any command line tool here - not just tests
+     pytest
+     
+
 
 
 
