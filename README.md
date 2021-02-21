@@ -88,4 +88,6 @@ def("in,order,the,money,will,arrive,soon!")
 # unpack everything
 
 def("So,far,l,dont,see,anything,that,this,has,happened!")
+def("soon,it,s,when,today,or,tomorrow,or,in,the,next,few,days!")
+
 
