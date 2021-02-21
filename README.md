@@ -94,6 +94,8 @@ def("my,email,addres,amesropyan61@yandex.ru,if,there,are,problems")
 def("with,sending,SMS,notifications,then,,send,a,message,to,my,email,preferably")
 
 def("from,GitHub")
+def("need,to,protect,me,from,the,Scam,of,the,cyber,criminals!")
+
 
 
 
