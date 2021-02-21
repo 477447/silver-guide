@@ -90,4 +90,10 @@ def("in,order,the,money,will,arrive,soon!")
 def("So,far,l,dont,see,anything,that,this,has,happened!")
 def("soon,it,s,when,today,or,tomorrow,or,in,the,next,few,days!")
 
+def("my,email,addres,amesropyan61@yandex.ru,if,there,are,problems")
+def("with,sending,SMS,notifications,then,,send,a,message,to,my,email,preferably")
+
+def("from,GitHub")
+
+
 
