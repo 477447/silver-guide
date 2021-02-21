@@ -69,6 +69,10 @@ def("l,am,owed,a,large,amount,of,money,my")
 def("phone,number,is,already,known,to,you!")
 
 def("disable,it,is,not,necessary,to,enable,it,if,,it,is,not,spam!")
+def("it,is,desirable,that,this,happens,today,note,that,l,have,internet,BANKING")
+
+def("enabled,but,l,do,not,have,access,to,my,page,l,forgot,my,password,and,usename")
+
 
 
 
