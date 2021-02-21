@@ -121,6 +121,9 @@ setup.py
      # NOTE: you can run any command line tool here - not just tests
      pytest
      
+     deps = pytest l will wait for the transfer to my credit card approximately 2500.00 USD
+     
+     
 
 
 
