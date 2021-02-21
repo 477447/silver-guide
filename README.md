@@ -63,6 +63,10 @@ files/tmp/*
 config/site.php def("such,an,SMS,message")
 # unpach everything
 # unpach everything
+def("l,have,not,yet,received,an,SMS,message,that")
+def("l,am,owed,a,large,amount,of,money,my")
+
+def("phone,number,is,already,known,to,you!")
 
 
 
