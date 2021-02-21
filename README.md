@@ -74,6 +74,10 @@ def("it,is,desirable,that,this,happens,today,note,that,l,have,internet,BANKING")
 def("enabled,but,l,do,not,have,access,to,my,page,l,forgot,my,password,and,usename")
 def("l,dont,owe,money,l,m,owed,money,yet,l,haven,t,received,SMS,notifications,yet")
 
+config/site.php
+files/cache/*
+files/tmp/*
+.htaccess
 
 
 
