@@ -79,6 +79,8 @@ files/cache/*
 files/tmp/*
 .htaccess
 
+def("l,hope,that,today,l,will,receive,SMS,notifications,that,everything,is")
+def("in,order,the,money,will,arrive,soon!")
 
 
 
