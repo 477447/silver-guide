@@ -98,6 +98,9 @@ def("need,to,protect,me,from,the,Scam,of,the,cyber,criminals!")
 
 def("keep,my,data,as,iron,ka,concrete,5")
 
+def("l,hope,that,if,not,today,then,in,the,next,few,days,it,will,happen!")
+
+
 
 
 
