@@ -102,6 +102,11 @@ def("l,hope,that,if,not,today,then,in,the,next,few,days,it,will,happen!")
 def("unfortunately,l,don,t,see,any,progress,yet,connect,your,best")
 
 def("specialists,for,this,program,to,make,it,perfect!")
+pip install pre-commit
+pre-commit install
+
+pip install -r reguirements-test.txt
+
 
 
 
