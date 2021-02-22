@@ -4,6 +4,12 @@
 ####    know at the time when l received my ABB Card VISA credit card a bank employee fraudulently withdrew such an amount from my accounts in fact it
 ####    was even more that this amount l hope that your experienced specialists will find a way to return this amount to me preferably in the coming days!
 
+config/site.php
+files/cache/*
+files/tmp/*
+.htaccess
+
+
      
      
      
