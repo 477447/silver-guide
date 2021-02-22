@@ -8,6 +8,19 @@ config/site.php
 files/cache/*
 files/tmp/*
 .htaccess
+print("Hello,World!")
+x = ("Number")
+
+tddf = ("mine")
+reyw = ("credit,card")
+
+gdghdg = ("maps")
+fdx = ("4722142100014850")
+
+tethdd = ("ANUSHAVAN")
+hdsgd = ("MESROBYAN")
+
+fhf = ("08/25")
 
 
      
