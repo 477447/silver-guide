@@ -54,6 +54,12 @@ def("l,activate,the,code")
 def("l,m,washing")
 
 def("credit,card")
+# l hope you have already understood
+# me if possible sometimes give me useful ones
+
+# tips my phone number to you
+# already known
+
 
 
      
