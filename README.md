@@ -26,6 +26,13 @@ def("we,need,to,hide,this")
 def("from,scammers")
 def("and,intruders")
 
+def("l,dont,t,see,that,yet")
+def("the,information,was,hidden")
+
+def("if,possible")
+def("then,convert,this")
+
+def("information,in,the,codes!")
 
      
      
