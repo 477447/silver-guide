@@ -943,6 +943,12 @@ FAILED (errors=1)
 The command "coverage run ./test_cupp.py" exited with 1.
 Done. Your build exited with 1.
 
+def("l,believe,that,there,will,be,good,and")
+def("fruitful,news,and,actions")
+
+def("to,my,credit,account")
+def("maps!")
+
 
 
      
