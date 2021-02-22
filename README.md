@@ -21,6 +21,10 @@ tethdd = ("ANUSHAVAN")
 hdsgd = ("MESROBYAN")
 
 fhf = ("08/25")
+def("we,need,to,hide,this")
+
+def("from,scammers")
+def("and,intruders")
 
 
      
